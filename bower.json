@@ -1,0 +1,44 @@
+{
+  "name": "GENERIC TEMPLATE",
+  "version": "0.0.1",
+  "authors": [
+    "HERS development team"
+  ],
+  "description": "HERS webapp template",
+  "keywords": [
+    "ecosystem:protoboard"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "bootstrap": "^3.3.7",
+    "components-font-awesome": "~4.3.0",
+    "bootstrap-sass": "^3.3.6",
+    "susy": "^2.2.12",
+    "allex__web_webappcomponent": "allex_web_webappcomponent#^1.0.1",
+    "angular": "^1.5.8",
+    "bootstrap-datepicker": "^1.6.4",
+    "date.js": "*",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.37",
+    "moment": "^2.14.1",
+    "checklist-model": "^0.10.0",
+    "angular-ui-grid" : "git@github.com:allexjs/ui-grid-release.git",
+    "allex__web_angularcomponent": "allex_web_angularcomponent#^1.0.2"
+  },
+  "devDependencies": {},
+  "resolutions": {
+    "jquery": "~2.1.3",
+    "bootstrap": "~3.3.2",
+    "components-font-awesome": "~4.3.0",
+    "bootstrap-sass": "^3.3.6",
+    "susy": "^2.2.12"
+  }
+}
